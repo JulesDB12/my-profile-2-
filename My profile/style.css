@@ -1,0 +1,28 @@
+body {
+    background-color: #7F7E7C;
+    color: #2A442D;
+    font-family: font-family: 'PT Serif', serif;
+    font-weight: lighter;
+    font-size: 17px;}
+
+h1, h2, h3 {font-family: font-family: 'Barlow', sans-serif;}
+
+
+
+h1 {color: #60220B;
+font-family: helvetica
+font-weight: 900;}
+
+h2 {color:  #A22714;
+	letter-spacing: 15px;
+	font-size: 24px;
+	text-transform: uppercase;
+font-weight: 200;}
+
+	a {text-decoration: none;
+		color: black;
+		font-weight: bold;
+		font-family: 'Barlow', sans-serif;
+		font-size: 20px;}
+
+	a:hover {color:blue ;}
